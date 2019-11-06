@@ -1,3 +1,6 @@
+/*- Real Time Clock -*/
+RTC_DS1307 RTC;
+
 void setupRTC(){
     Wire.begin();
     RTC.begin();
