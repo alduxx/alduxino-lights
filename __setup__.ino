@@ -8,5 +8,8 @@ void setup() {
     /* setup wifi and Http Server -  _wifi_.ino */
     setupWifi();
 
+    /* setup relays -  _relays__.ino */
+    setupRelays();
+
     Serial.print("Setup ended...");
 }

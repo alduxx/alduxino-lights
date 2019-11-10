@@ -1,6 +1,8 @@
 # Secret consts
 _secret_.ino
 
+commands.txt
+
 # Backups
 *.bkp
 *.swp
@@ -39,4 +41,3 @@ _secret_.ino
 *.exe
 *.out
 *.app
-
