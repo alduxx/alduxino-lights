@@ -4,7 +4,7 @@ Arduino Project for Home Lights Automation
 Create a file named *_secret_.ino* and fill the variables:
 
 ```cpp
-/\*- Wifi consts -\*/
+// /\*- Wifi consts -\/*
 const char\* WIFI_SSID = "your_wifi_ssid";
 const char\* WIFI_PASSWORD = "your_wifi_password";
 ```
