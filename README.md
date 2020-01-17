@@ -13,7 +13,9 @@ Using arduino-cli:
 
 
 Compiling the code: (One dir up)
-`arduino-cli compile --fqbn esp8266:esp8266:nodemcuv2 alduxino-lights/`
+```
+arduino-cli compile --fqbn esp8266:esp8266:nodemcuv2 alduxino-lights/
+```
 
 Uploading the code: (Replace port with your own)
 `arduino-cli upload -p /dev/ttyUSB0 --fqbn esp8266:esp8266:nodemcuv2 alduxino-lights/`
